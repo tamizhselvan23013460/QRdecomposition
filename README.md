@@ -54,8 +54,8 @@ QR_Decomposition(A)
 
 ## Output
 ```
+![gram schmid output](https://github.com/tamizhselvan23013460/QRdecomposition/assets/150231370/486449d0-aba1-4944-b38a-32aafcec2d73)
 
-![Uploading gram schmid output.png…]()
 
 ```
 
